@@ -104,7 +104,7 @@ hr {
 /*img styling*/
 
 .img-1 {
-  margin: auto;
+  margin: 15px;
 }
 .img-2 {
   margin-top: 39px;
@@ -125,81 +125,81 @@ hr {
   margin-right: auto;
 }
 .img-5 {
-  margin: auto;
+  margin: 15px;
   
 }
 .img-6 {
-    margin: auto;
+    margin: 15px;
 }
 .img-7 {
-    margin: auto;
+    margin: 15px;
 }
 .img-8 {
- margin-top: -274px;
+  margin-top: -274px;
 }
 .img-9 {
-    margin: auto;
+    margin: 20px;
 }
 .img-10 {
   margin-top: -6px;
   margin-left: 18px;
   margin-right: 20px;
-  margin-bottom: auto;
+  margin-bottom: 15px;
 }
 .img-11 {
   margin-top: -380px;
-  margin-bottom: auto;
-  margin-left: auto;
-  margin-right: auto;
+  margin-bottom: 15px;
+  margin-left: 15px;
+  margin-right: 15px;
 }
 
 .img-12 {
-    margin: auto;
+    margin: 15px;
 }
 .img-13 {
   margin-top: -379px;
   margin-left: 10px;
   margin-right: 10px;
-  margin-bottom: auto;
+  margin-bottom: 15px;
 }
 .img-14 {
-  margin-top: -394px;
-  margin-bottom: auto;
-  margin-left: auto;
-  margin-right: auto;
+  margin-top: -326px;
+  margin-bottom: 15px;
+  margin-left: 15px;
+  margin-right: 15px;
 }
 .img-15 {
-    margin: auto;
+    margin: 15px;
 }
 .img-16 {
   margin-top: -501px;
-  margin-left: auto;
-  margin-right: auto;
-  margin-bottom: auto;
+  margin-left: 15px;
+  margin-right: 15px;
+  margin-bottom: 15px;
 }
 .img-17 {
   margin-top: -666px;
   margin-left: 10px;
   margin-right: 10px;
-  margin-bottom: auto;
+  margin-bottom: 15px;
 }
 .img-18 {
-    margin: auto;
+    margin: 15px;
 }
 .img-19 {
-    margin: auto;
+    margin: 15px;
 }
 .img-20 {
   margin-left: -464px;
   margin-right: 470px;
   margin-top: -249px;
-  margin-bottom: auto;
+  margin-bottom: 15px;
 }
 .img-21 {
   margin-left: 479px;
   margin-right: -471px;
   margin-top: -341px;
-  margin-bottom: auto;
+  margin-bottom: 15px;
 }
 
 /*Styling the footer*/
