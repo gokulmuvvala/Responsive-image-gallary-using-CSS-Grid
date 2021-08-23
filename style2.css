@@ -103,106 +103,106 @@ hr {
 /*img styling*/
 
 .img-1 {
-  margin: auto;
+  margin: 15px;
 }
 .img-2 {
   margin-top: 30px;
   margin-left: 18px;
   margin-right: 20px;
-  margin-bottom:auto;
+  margin-bottom:15px;
 }
 .img-3 {
   margin-right: 10px;
   margin-left: 10px;
   margin-top: 29px;
-  margin-bottom:auto;
+  margin-bottom:15px;
 }
 .img-4 {
-  margin-top: auto;
+  margin-top: 15px;
   margin-bottom: 60px;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: 15px;
+  margin-right: 15px;
 }
 .img-5 {
-  margin: auto;
+  margin: 15px;
 }
 .img-6 {
   margin: 20px;
-  margin-left: auto;
-  margin-right: auto;
-  margin-bottom:auto;
+  margin-left: 15px;
+  margin-right: 15px;
+  margin-bottom:15px;
 }
 .img-7 {
   margin-top: -18px;
-  margin-left: auto;
-  margin-right: auto;
-  margin-bottom:auto;
+  margin-left: 15px;
+  margin-right: 15px;
+  margin-bottom:15px;
 }
 .img-8 {
   margin-top: -362px;
-  margin-left: auto;
-  margin-right: auto;
-  margin-bottom:auto;
+  margin-left: 15px;
+  margin-right: 15px;
+  margin-bottom:15px;
 }
 .img-9 {
   margin-top: -940px;
-  margin-left: auto;
-  margin-right: auto;
-  margin-bottom:auto;
+  margin-left: 15px;
+  margin-right: 15px;
+  margin-bottom:15px;
 }
 .img-10 {
   margin-top: 16px;
   margin-left: 18px;
   margin-right: 20px;
-  margin-bottom:auto;
+  margin-bottom:15px;
 }
 .img-11 {
   margin-top: -77px;
-  margin-left: auto;
-  margin-right: auto;
-  margin-bottom:auto;
+  margin-left: 15px;
+  margin-right: 15px;
+  margin-bottom:15px;
 }
 .img-12 {
   margin-top: -634px;
   margin-left: 10px;
-  margin-right: auto;
-  margin-bottom:auto;
+  margin-right: 15px;
+  margin-bottom:15px;
 }
 .img-13 {
   margin-top: 11px;
   margin-left: 10px;
   margin-right: 10px;
-  margin-bottom:auto;
+  margin-bottom:15px;
 }
 .img-14 {
   margin-top: -915px;
   margin-left: 473px;
   margin-right: -465px;
-  margin-bottom: auto;
+  margin-bottom: 15px;
 }
 .img-15 {
   margin-top: -633px;
   margin-left: 15px;
-  margin-right: auto;
-  margin-bottom:auto;
+  margin-right: 15px;
+  margin-bottom:15px;
 }
 .img-16 {
   margin-top: 105px;
-  margin-left: auto;
-  margin-right: auto;
-  margin-bottom:auto;
+  margin-left: 15px;
+  margin-right: 15px;
+  margin-bottom:15px;
 }
 .img-17 {
   margin-top: -365px;
   margin-left: 46px;
   margin-right: 67px;
-  margin-bottom:auto;
+  margin-bottom:15px;
 }
 .img-18 {
   margin-top: 14px;
-  margin-left: auto;
-  margin-right: auto;
-  margin-bottom:auto;
+  margin-left: 15px;
+  margin-right: 15px;
+  margin-bottom:15px;
 }
 .img-19 {
   margin-top: -245px;
@@ -214,13 +214,13 @@ hr {
   margin-left: 13px;
   margin-right: 35px;
   margin-top: -639px;
-  margin-bottom:auto;
+  margin-bottom:15px;
 }
 .img-21 {
   margin-top: -222px;
   margin-right: -464px;
   margin-left: 513px;
-  margin-bottom:auto;
+  margin-bottom:15px;
 }
 
 /*Styling the footer*/
