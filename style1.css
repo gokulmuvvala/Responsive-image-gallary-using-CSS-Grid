@@ -1,0 +1,227 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/*Styling the body*/
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 10px;
+  padding: 45px;
+  width: 100%;
+  height: 100vh;
+  background-color: #fff338;
+ 
+}
+
+/*Styling the container-1*/
+.container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(450px, 1fr));
+  width: 100%;
+  grid-gap: 5px;
+  max-width: 120rem;
+  padding: auto;
+}
+
+.left {
+  font-family: Arial, Helvetica;
+  display: inline-block;
+  position: absolute;
+  left: 20px;
+  top: 3px;
+}
+.left img {
+  width: 80px;
+  height: 80px;
+  margin-left: 17px;
+  border: 2px solid black;
+}
+
+.website-name {
+  margin-left: -17px;
+  position: sticky;
+  margin-top: 5px;
+}
+.left div {
+  line-height: 19px;
+  font-size: 26px;
+  text-align: center;
+}
+
+.right div {
+  line-height: 19px;
+  font-size: 26px;
+  text-align: center;
+}
+.right img {
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  margin-left: 718px;
+  margin-bottom: 87px;
+  margin-top: -65px;
+  margin-right: auto;
+}
+.mid {
+    display: block;
+    margin: 18px auto;
+    width: 19%;
+}
+
+.navbar {
+    display: inline-block;
+    width: auto;
+    border: 8.5px solid black;
+}
+
+.navbar li {
+  display: inline-block;
+  font-size: 24px;
+}
+.navbar li a {
+  color: black;
+  text-decoration: none;
+  padding: 34px 23px;
+}
+
+.navbar li a:hover,
+.navbar li a.active {
+  text-decoration: underline;
+  color: black;
+}
+
+/*Styling the images*/
+
+.animal-image-gallery img {
+  width: 100%;
+  border-radius: 20px;
+}
+.box {
+  padding: auto;
+}
+
+/*Styling the animal-image-gallery*/
+
+hr {
+  border: 1px solid black;
+  width: 100%;
+}
+
+/*img styling*/
+
+.img-1 {
+  margin: auto;
+}
+.img-2 {
+  margin-top: 39px;
+  margin-left: 18px;
+  margin-right: 20px;
+  margin-bottom:auto;
+}
+.img-3 {
+  margin-right: 150px;
+  margin-left: 25px;
+  margin-bottom:auto;
+  margin-top: auto;
+}
+.img-4 {
+  margin-top: -45px;
+  margin-bottom:auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+.img-5 {
+  margin: auto;
+  
+}
+.img-6 {
+    margin: auto;
+}
+.img-7 {
+    margin: auto;
+}
+.img-8 {
+    margin: auto;
+}
+.img-9 {
+    margin: auto;
+}
+.img-10 {
+  margin-top: -6px;
+  margin-left: 18px;
+  margin-right: 20px;
+  margin-bottom: auto;
+}
+.img-11 {
+  margin-top: -380px;
+  margin-bottom: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.img-12 {
+    margin: auto;
+}
+.img-13 {
+  margin-top: -379px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: auto;
+}
+.img-14 {
+  margin-top: -326px;
+  margin-bottom: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+.img-15 {
+    margin: auto;
+}
+.img-16 {
+  margin-top: -501px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: auto;
+}
+.img-17 {
+  margin-top: -666px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: auto;
+}
+.img-18 {
+    margin: auto;
+}
+.img-19 {
+    margin: auto;
+}
+.img-20 {
+  margin-left: -464px;
+  margin-right: 470px;
+  margin-top: -249px;
+  margin-bottom: auto;
+}
+.img-21 {
+  margin-left: 479px;
+  margin-right: -471px;
+  margin-top: -341px;
+  margin-bottom: auto;
+}
+
+/*Styling the footer*/
+
+footer {
+  font-family: Tahoma, Geneva, Verdana, sans-serif;
+  padding: 2px;
+  font-size: 16px;
+  text-align: center;
+  background: #3c415c;
+  color: white;
+  width: 100%;
+  margin-top: 47px;
+  margin-left: -5px;
+  margin-bottom:auto;
+  margin-right: auto;
+}
