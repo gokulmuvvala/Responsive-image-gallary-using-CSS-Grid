@@ -54,14 +54,7 @@ body {
   font-size: 26px;
   text-align: center;
 }
-.right img {
-    position: absolute;
-    width: 129px;
-    height: 80px;
-    margin-left: 672px;
-    margin-bottom: 87px;
-    margin-top: -65px;
-}
+
 .mid {
     display: block;
     margin: 18px auto;
